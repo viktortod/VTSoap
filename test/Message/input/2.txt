@@ -1,0 +1,7 @@
+<Message>
+	<Service>
+		<OperationCall>
+				<LoginUserCommand />
+		</OperationCall>
+	</Service>
+</Message>

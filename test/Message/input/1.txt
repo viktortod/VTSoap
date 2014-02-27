@@ -1,0 +1,10 @@
+<Message>
+	<Service>
+		<OperationCall>
+			<LoginUserCommand />
+		</OperationCall>
+		<OperationSubject>
+			<User username="john.smith" password="12345" />
+		</OperationSubject>
+	</Service>
+</Message>
